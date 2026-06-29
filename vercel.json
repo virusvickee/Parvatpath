@@ -1,7 +1,3 @@
 {
-  "buildCommand": "cd parvatpath-app && npm run build",
-  "outputDirectory": "parvatpath-app/.next",
-  "installCommand": "cd parvatpath-app && npm install",
-  "devCommand": "cd parvatpath-app && npm run dev",
   "framework": "nextjs"
 }
